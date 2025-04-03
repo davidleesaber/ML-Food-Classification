@@ -1,7 +1,7 @@
 # CSC311 Machine Learning Challenge: Predicting Food Preferences
 
 ## Project Overview
-This repository contains the code and results for the **CSC311 Machine Learning Challenge**, where the goal was to develop a classifier to predict food preferences based on survey responses. The dataset provided included responses to various questions about food items, such as complexity, ingredients, settings, and associations. Our team applied machine learning techniques to preprocess the data, train models, and make predictions on unseen test data.
+This repository contains the code and results for the **Food Classification Machine Learning Challenge**, where the goal was to develop a classifier to predict food preferences based on survey responses. The dataset provided included responses to various questions about food items, such as complexity, ingredients, settings, and associations. Our team applied machine learning techniques to preprocess the data, train models, and make predictions on unseen test data.
 
 ## Survey Questions and Expected Answers
 The dataset included the following survey questions:
