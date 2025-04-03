@@ -5,14 +5,15 @@ This repository contains the code and results for the **CSC311 Machine Learning 
 
 ## Survey Questions and Expected Answers
 The dataset included the following survey questions:
-1. **Complexity (Scale 1-5)**: Participants rated how complex it is to make the food item (e.g., 1 = simple, 5 = complex).
-2. **Number of Ingredients**: Participants estimated the number of ingredients required (e.g., "5: cheese, sauce, dough, meat, vegetables").
-3. **Serving Setting**: Participants selected settings where they would expect the food to be served (e.g., "Weekday lunch," "At a party").
-4. **Price**: Participants estimated the price for one serving (e.g., "$10 for a slice").
-5. **Associated Movie**: Participants associated the food item with a movie (e.g., "Cloudy with a Chance of Meatballs").
-6. **Drink Pairing**: Participants suggested drinks that pair well with the food item (e.g., "Coke").
-7. **Person Association**: Participants described who the food reminds them of (e.g., "Friends").
-8. **Hot Sauce Preference**: Participants indicated how much hot sauce they would add (e.g., "A little (mild)").
+1. **Complexity (Scale 1-5)**: From a scale 1 to 5, how complex is it to make this food? (Where 1 is the most simple, and 5 is the most
+complex)
+2. **Number of Ingredients**: How many ingredients would you expect this food item to contain? (A number).
+3. **Serving Setting**: In what setting would you expect this food to be served? Please check all that apply ("Weekday lunch", "Weekday dinner", "Weekend lunch", "Weekend dinner", "At a party").
+5. **Price**: How much would you expect to pay for one serving of this food item? (A number).
+6. **Associated Movie**: What movie do you think of when thinking of this food item? (e.g., "Cloudy with a Chance of Meatballs").
+7. **Drink Pairing**: What drink would you pair with this food item? (e.g., "Coke").
+8. **Person Association**: When you think about this food item, who does it remind you of? Please check all that apply ("Parents", "Siblings", "Friends", "Teachers", "Strangers").
+9. **Hot Sauce Preference**: How much hot sauce would you add to this food item? Select one ("None", "A little (mild)", "A moderate amount (medium)", "A lot (hot)", "I will have some of this food item with my hot sauce")
 
 ## Code Execution Order
 To run the code and reproduce results, follow these steps:
