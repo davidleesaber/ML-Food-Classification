@@ -32,7 +32,7 @@ The following Python libraries were utilized in this project:
 Our final model achieved an accuracy of **91.88%** on unseen test data. The report includes detailed insights into feature engineering, hyperparameter tuning, and model selection strategies.
 
 ## Repository Structure
-- `cleaneddata.py`: Data preprocessing script.
+- `cleandata.py`: Data preprocessing script.
 - `npz_generator.py`: Converts cleaned data into `.npz` format.
 - `test.py`: Model training and evaluation script.
 - `report.pdf`: Comprehensive documentation of methodology, results, and conclusions.
